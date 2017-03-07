@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "office-word-demo.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "officegen": "^0.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node tianya-crawler-demo.js"
+  },
+  "author": "Keyon Y",
+  "license": "ISC"
+}
